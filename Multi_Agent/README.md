@@ -1,4 +1,5 @@
 # Multi-Agent Reinforcement Learning
+	>Multi-agent reinforcement learning has many real-world applications, ranging from self-driving cars to warehouse management.
 
 ## Lessons
 
