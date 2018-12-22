@@ -7,7 +7,7 @@
 1. Lesson 3: Policy Gradient Methods
 1. Lesson 4: Proximal Policy Optimization
 1. Lesson 5: Actor-Critic Methods
-1. Lesson 6: [Deep RL for Finance]() 
+1. Lesson 6: [Deep RL for Finance](https://github.com/ahmedhasandrlnd/Deep_Reinforcement_Learning_Nanodegree/tree/master/Policy/Finance) 
 
 ## Additiona Resources
 1. [Blog](http://karpathy.github.io/2016/05/31/rl/)
