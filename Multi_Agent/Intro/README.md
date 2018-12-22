@@ -15,6 +15,6 @@
 1. [Cooperation, Competition, Mixed Environments](https://www.youtube.com/watch?time_continue=1&v=vx6PIH5_oFg)
 1. [Research Topics](https://www.youtube.com/watch?time_continue=3&v=nRKrQamUISs)
 1. [Paper Description](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf), [Part 1](https://www.youtube.com/watch?v=Ks9-TeCg3Fs)
-1. Paper Description, [Part 2](https://www.youtube.com/watch?v=4hFAhtLJR5U
+1. Paper Description, [Part 2](https://www.youtube.com/watch?v=4hFAhtLJR5U)
 1. [Summary](https://www.youtube.com/watch?v=yGPHGYHqjq8)
 1. [Lab Instructions](lab_instruction.md)
