@@ -8,3 +8,4 @@
 1. [Applications of Multi-Agent Systems](https://www.youtube.com/watch?v=fw0G_gSDm6Q)
 1. [Benefits of Multi-Agent Systems](https://www.youtube.com/watch?time_continue=16&v=NXDv9cEZTaw)
 1. [Markov Games](https://www.youtube.com/watch?v=Y9qq4Jqnwls)
+1. Quiz: Markov Games [Quiz](images/Quiz1.png) [Answer](images/Quiz1_ans.png)
