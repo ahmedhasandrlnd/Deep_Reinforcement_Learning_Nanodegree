@@ -15,7 +15,7 @@
 1. [Cooperation, Competition, Mixed Environments](https://www.youtube.com/watch?time_continue=1&v=vx6PIH5_oFg)
 1. [Research Topics](https://www.youtube.com/watch?time_continue=3&v=nRKrQamUISs)
 1. [Paper Description](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf), [Part 1](https://www.youtube.com/watch?v=Ks9-TeCg3Fs)
-1. Paper Description, [Part 2](https://www.youtube.com/watch?v=4hFAhtLJR5U)
+1. Paper Description, [Part 2](https://www.youtube.com/watch?v=4hFAhtLJR5U) [Figure](images/MADDPG.png)
 1. [Summary](https://www.youtube.com/watch?v=yGPHGYHqjq8)
 1. [Lab Instructions](lab_instruction.md)
 1. [MADDPG - Lab](https://classroom.udacity.com/nanodegrees/nd893/parts/ec710e48-f1c5-4f1c-82de-39955d168eaa/modules/89b85bd0-0add-4548-bce9-3747eb099e60/lessons/a6347d5b-55f0-45cd-bab2-308f877d79a7/concepts/475be8a3-68d3-42ed-8605-90c905d88ab0)
