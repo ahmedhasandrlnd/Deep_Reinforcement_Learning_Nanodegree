@@ -16,6 +16,6 @@
 1. C++ Programming
 
 ## Project
-1. [Navigation](https://github.com/ahmedhasandrlnd/Continuous_Control_Reacher)
+1. [Navigation](https://github.com/ahmedhasandrlnd/navigation)
 1. [Continuous Control](https://github.com/ahmedhasandrlnd/Continuous_Control_Reacher)
 1. [Collaborate and Competition](https://github.com/ahmedhasandrlnd/Collaborate_Competition)
