@@ -1,7 +1,7 @@
 # Introduction to Deep Reinforcement Learning
 
 ## Lessons
-Lesson 1: Welcome to Deep RL
+Lesson 1: [Welcome to Deep RL](Welcome)
 
 Lesson 2: Get Help from peers and mentors
 
