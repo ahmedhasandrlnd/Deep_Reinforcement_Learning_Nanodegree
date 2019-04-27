@@ -9,7 +9,7 @@ Lesson 3: Get Help with Your Account
 
 Lesson 4: [Learning Plan](Learning_plan)
 
-Lesson 5: Introduction to RL
+Lesson 5: [Introduction to RL](Intro)
 
 Lesson 6: The RL Framework: The Problem
 
