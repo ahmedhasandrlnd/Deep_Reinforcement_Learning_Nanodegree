@@ -11,9 +11,9 @@ Lesson 4: [Learning Plan](Learning_plan)
 
 Lesson 5: [Introduction to RL](Intro)
 
-Lesson 6: The RL Framework: The Problem
+Lesson 6: [The RL Framework: The Problem](RL_Problem)
 
-Lesson 7: The RL Framework: The solution
+Lesson 7: [The RL Framework: The solution](RL_Solutio)
 
 Lesson 7: Monte Carlo Method
 
