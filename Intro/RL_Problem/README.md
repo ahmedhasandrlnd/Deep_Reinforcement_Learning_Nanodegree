@@ -2,6 +2,7 @@
 
 ## Concepts
 1. [Introduction](https://www.youtube.com/watch?v=X_9l_ZqXXBA)
+	> This lesson covers material in Chapter 3 (especially 3.1-3.3) of the textbook.
 1. [The Setting, Revisited](https://www.youtube.com/watch?v=V6Q1uF8a6kA)
 1. [Episodic vs. Continuing Tasks](https://www.youtube.com/watch?v=E1I-BPanSM8)
 1. Quiz: Test Your Intuition
