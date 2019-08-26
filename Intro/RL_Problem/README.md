@@ -22,3 +22,31 @@
 	![Quiz](quiz7.PNG)
 1. [Cumulative Reward](https://www.youtube.com/watch?v=ysriH65lV9o)
 1. [Discounted Return](https://www.youtube.com/watch?v=opXGNPwwn7g)
+1. Quiz: Pole-Balancing
+	![Pole](pole.PNG)
+	![Quiz](quiz1_pole.PNG)
+	![Quiz](quiz2_pole.PNG)
+	![Quiz](quiz3_pole.PNG)
+1. [MDPs, Part 1](tps://www.youtube.com/watch?v=NBWbluSbxPg)
+	![Notes](notes.PNG)
+1. [MDPs, Part 2](https://www.youtube.com/watch?v=CUTtQvxKkNw)
+1. Quiz: One-Step Dynamics, Part 1
+	![Step](one.PNG)
+	![Step](two.PNG)
+	!(Quiz1)(quiz1_step.PNG)
+	!(Quiz2)(quiz2_step.PNG)
+1. Quiz: One-Step Dynamics, Part 2
+	![Step](step1.PNG)
+	![Step](step1.PNG)
+	![Step](step1.PNG)
+	!(Quiz3)(quiz3_step.PNG)
+	!(Quiz4)(quiz4_step.PNG)
+1. [MDPs, Part 3](https://www.youtube.com/watch?time_continue=1&v=UlXHFbla3QI)
+1. Finite MDPs
+	![Cartpole](cartpole1.PNG)
+	![Cartpole](cartpole2.PNG)
+	![Cartpole](cartpole3.PNG)
+1. Summary
+	![Summary](summary1.PNG)
+	![Summary](summary2.PNG)
+	![Summary](summary3.PNG)
