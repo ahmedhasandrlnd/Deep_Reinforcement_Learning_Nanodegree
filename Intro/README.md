@@ -17,7 +17,7 @@ Lesson 7: [The RL Framework: The solution](RL_Solution)
 
 Lesson 7: [Monte Carlo Method](MC)
 
-Lesson 8: Temporal Difference Method
+Lesson 8: [Temporal Difference Method](TD)
 
 Lesson 9: Solve  OpenAI Gym's Taxi-v2 Task
 
