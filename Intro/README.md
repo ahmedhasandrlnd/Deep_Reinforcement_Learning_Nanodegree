@@ -19,7 +19,7 @@ Lesson 7: [Monte Carlo Method](MC)
 
 Lesson 8: [Temporal Difference Method](TD)
 
-Lesson 9: Solve  OpenAI Gym's Taxi-v2 Task
+Lesson 9: [Solve  OpenAI Gym's Taxi-v2 Task](Taxi)
 
 Lesson 10: RL in continuous Spaces
 
