@@ -23,7 +23,7 @@ Lesson 9: [Solve  OpenAI Gym's Taxi-v2 Task](Taxi)
 
 Lesson 10: [RL in continuous Spaces](Continuous)
 
-Lesson 11: What's next?
+Lesson 11: [What's next?](Next)
 
 
  
