@@ -1,7 +1,7 @@
 ## Student Resources
 As you learn more about deep reinforcement learning and progress through this course, you'll likely find a number of outside resources that are useful for supplementing your study.
 
-You can start with the student-curated list of resources at this link. Please contribute to the list, if you find more to add!
+You can start with the student-curated list of resources at [this link](http://bit.ly/drlndlinks). Please contribute to the list, if you find more to add!
 
 ## Books to Read
 We believe that you learn best when you are exposed to multiple perspectives on the same idea. As such, we recommend checking out the books below to get an added perspective on Deep Reinforcement Learning.
