@@ -3,10 +3,10 @@
 ## Lessons
 
 1. Lesson 1: Study Plan
-1. Lesson 2: Introduction to Policy-Based Methods
-1. Lesson 3: Policy Gradient Methods
-1. Lesson 4: Proximal Policy Optimization
-1. Lesson 5: Actor-Critic Methods
+1. Lesson 2: [Introduction to Policy-Based Methods](Intro)
+1. Lesson 3: [Policy Gradient Methods](Gradient)
+1. Lesson 4: [Proximal Policy Optimization](PPO)
+1. Lesson 5: [Actor-Critic Methods](Actor)
 1. Lesson 6: [Deep RL for Finance](https://github.com/ahmedhasandrlnd/Deep_Reinforcement_Learning_Nanodegree/tree/master/Policy/Finance) 
 
 ## Additiona Resources
