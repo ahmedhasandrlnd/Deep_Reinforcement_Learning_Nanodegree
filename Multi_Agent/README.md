@@ -8,4 +8,4 @@
 1. Lesson 3: [Case Study: AlphaZero](AlphaZero/)
 
 ## Project
-1. Collaboration and Competition
+1. [Collaboration and Competition](Project)
