@@ -15,4 +15,5 @@
 1. [Evolution Strategies](https://blog.openai.com/evolution-strategies/)
 
 ## Project
-1. [Continuous Control](https://github.com/ahmedhasandrlnd/Continuous_Control_Reacher)
+1. [Continuous Control Project](https://github.com/ahmedhasandrlnd/Continuous_Control_Reacher)
+1. [Continuous Control Instruction](Project)
