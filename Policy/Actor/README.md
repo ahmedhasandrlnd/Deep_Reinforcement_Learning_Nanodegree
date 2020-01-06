@@ -27,3 +27,4 @@
 1. [DDPG Code Walk-through](https://www.youtube.com/watch?v=08V9r3NgFSE&feature=emb_logo)
 1. [Summary](https://www.youtube.com/watch?v=rRuiMhijw_s&feature=emb_logo)
 	![fig](fig4.JPG)
+	> Finally, life is better together. Make sure to connect [here](http://bit.ly/mimoralea_t), [here](http://bit.ly/mimoralea_l), or [some other way](http://bit.ly/mimoralea).
