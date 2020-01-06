@@ -14,8 +14,8 @@
 	![fig](fig5.JPG)
 	![fig](fig6.JPG)
 	![fig](fig7.JPG)
-	![One agent macos](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
-	![20 agents macos](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+	> [One agent macos](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
+	> [20 agents macos](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
 1. Project Instructions
 	> To review the detailed project requirements, please read the project [rubric](https://review.udacity.com/#!/rubrics/1890/view).
 1. Benchmark Implementation
