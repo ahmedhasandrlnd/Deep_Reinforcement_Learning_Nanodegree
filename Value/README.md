@@ -2,13 +2,13 @@
 
 ## Lessons
 Lesson 1: Study Plan
-Lesson 2: Deep Q-Network
-Lesson 3: Deep RL for Robotics
-Lesson 4: Project Navigation
-Lesson 5: Opportunities in Deep Reinforcement Learning
+Lesson 2: [Deep Q-Network](DQN)
+Lesson 3: [Deep RL for Robotics](Robotics)
+Lesson 4: [Project Navigation](Project)
+Lesson 5: [Opportunities in Deep Reinforcement Learning](Jobs)
  
 
-## Additiona Resources
+## Additional Resources
 
 
 ## Project

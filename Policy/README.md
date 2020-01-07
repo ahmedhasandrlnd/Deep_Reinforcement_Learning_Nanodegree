@@ -9,7 +9,7 @@
 1. Lesson 5: [Actor-Critic Methods](Actor)
 1. Lesson 6: [Deep RL for Finance](https://github.com/ahmedhasandrlnd/Deep_Reinforcement_Learning_Nanodegree/tree/master/Policy/Finance) 
 
-## Additiona Resources
+## Additional Resources
 1. [Blog](http://karpathy.github.io/2016/05/31/rl/)
 1. [Medium post](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 1. [Evolution Strategies](https://blog.openai.com/evolution-strategies/)
