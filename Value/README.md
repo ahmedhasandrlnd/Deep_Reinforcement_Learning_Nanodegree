@@ -1,11 +1,11 @@
 # Value Based Methods
 
 ## Lessons
-Lesson 1: Study Plan
-Lesson 2: [Deep Q-Network](DQN)
-Lesson 3: [Deep RL for Robotics](Robotics)
-Lesson 4: [Project Navigation](Project)
-Lesson 5: [Opportunities in Deep Reinforcement Learning](Jobs)
+1. Lesson 1: Study Plan
+1. Lesson 2: [Deep Q-Network](DQN)
+1. Lesson 3: [Deep RL for Robotics](Robotics)
+1. Lesson 4: [Project Navigation](Project)
+1. Lesson 5: [Opportunities in Deep Reinforcement Learning](Jobs)
  
 
 ## Additional Resources
